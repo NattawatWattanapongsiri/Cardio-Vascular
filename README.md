@@ -4,6 +4,8 @@ Final Project of Business Intelligence System 2/2021
 - Nattawat Wattanapongsiri (Me)
 - Samitanan Chainilpan
 - Tossawan Siritanawut
+- Thadchakarn Gulma
+- Patchara Yakhaio
 ## <a href="https://www.youtube.com/watch?v=2SCpT1ZGvUs">Youtube Link</a>
 ## Data Source 
 - <a href="https://github.com/Sahussawat-Kongkiatklai/Cardio-Vascular-Disease-in-Thailand">cat</a>
