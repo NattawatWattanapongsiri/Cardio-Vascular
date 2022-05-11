@@ -7,4 +7,3 @@ Final Project of Business Intelligence System 2/2021
 - Thadchakarn Gulma
 - Patchara Yakhaio
 ## <a href="https://www.youtube.com/watch?v=2SCpT1ZGvUs">Youtube Link</a>
-## Data Source
